@@ -1,0 +1,9 @@
+/* TEAM */
+Company: EZLift Bed
+Website: https://ezliftbed.com/
+Location: N/A
+
+//* SITE */
+Published: 2026-06-27
+Language: English
+Doctype: HTML5
